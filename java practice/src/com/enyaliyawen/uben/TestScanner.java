@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class TestScanner {
 
-	//static变量作为类的变量，与放在方法中定义不同  
+	//static变量作为类的变量，与放在方法中定义不同 ,极客学院视频资料(https://pan.baidu.com/s/1c1A5dlQ#list/path=%2F%E6%9E%81%E5%AE%A2%E5%AD%A6%E9%99%A2%E8%A7%86%E9%A2%91%E8%B5%84%E6%96%99%2F%E5%88%9D%E7%BA%A7Java%20Web%E5%B7%A5%E7%A8%8B%E5%B8%88%2FJava%E5%9F%BA%E7%A1%80&parentPath=%2F)
 	static String name;
 	static char sex; // why char
 	static short age;
