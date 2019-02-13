@@ -12,7 +12,7 @@ public class TestScanner {
 	static String type;
 	
 	public static void main(String[] args) {
-		//小明   豪爽的 女士 
+		//小明   豪爽的 女士 ,先把中文贴在这里，直接在console写可能会出错
 		Scanner scanner = new Scanner(System.in);
 		System.out.println("姓名 : ");
 		name= scanner.next();
